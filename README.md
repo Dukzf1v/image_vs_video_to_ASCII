@@ -1,7 +1,7 @@
 # image_vs_video_to_ASCII
 This code convert image and video to ASCII present by Streamlit
 
-## First install requirement libraries
+First install requirement libraries
 
 ```bash
   pip install streamlit opencv-python-headless pillow numpy moviepy
