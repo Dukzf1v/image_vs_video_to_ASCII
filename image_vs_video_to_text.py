@@ -71,7 +71,7 @@ def video_2_ascii(video_path):
 
     
 def main():
-    st.title("₊✩‧₊|Image vs Video to ASCII Art|₊✩‧₊")
+    st.title("✩₊|Image vs Video to ASCII Art|₊✩")
     st.subheader('--(˶˃ ᵕ ˂˶)--|Choose type of art to convert|--(˶˃ ᵕ ˂˶)--')
 
     option = st.radio(
