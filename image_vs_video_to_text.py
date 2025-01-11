@@ -2,10 +2,7 @@ import cv2
 import streamlit as st
 import numpy as np
 from PIL import Image
-from io import BytesIO
 import tempfile
-import time
-from moviepy.editor import TextClip, concatenate_videoclips
 
 ASCII_CHARS = r"$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrift/|01{}[]?-+~<>i!lI;:,\"^`*. "
 
