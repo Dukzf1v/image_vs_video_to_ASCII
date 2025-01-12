@@ -12,4 +12,4 @@ Run this code in terminal by:
 ```bash
   python -m streamlit run image_vs_video_to_text.py
 ```
-
+Link streamlit: https://imagevsvideotoascii-6hw9m95pgsqikbm3vmc5fk.streamlit.app/
